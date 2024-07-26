@@ -15,7 +15,7 @@ export function OffCanvasExample({ name, ...props }) {
     <>
             <Navbar className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand style={{fontSize:"35px"}} href="#home">Selim Blog</Navbar.Brand>
+        <Navbar.Brand style={{fontSize:"35px"}} href="#home">CaridinatheHouse</Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Navbar.Text>
@@ -28,7 +28,7 @@ export function OffCanvasExample({ name, ...props }) {
             <img src="/Group.svg" onClick={handleShow} className="me-2 menu"/>
             <Offcanvas placement="end" style={{width:"200px"}}  show={show} onHide={handleClose} {...props} >
                 <Offcanvas.Header  closeButton>
-                    <Offcanvas.Title>Selim Blog</Offcanvas.Title>
+                    <Offcanvas.Title>CaridinatheHouse</Offcanvas.Title>
                 </Offcanvas.Header>
                 <Offcanvas.Body>
                     <ul>
