@@ -12,7 +12,7 @@ function BasicExample() {
         <h1>POSTLAR</h1>
     <Row style={{gap:"20px", justifyContent:"center"}}>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -23,7 +23,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -34,7 +34,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -45,7 +45,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -56,7 +56,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -67,7 +67,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -78,7 +78,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -89,7 +89,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -100,7 +100,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -111,7 +111,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -122,7 +122,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -133,7 +133,7 @@ function BasicExample() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="/public/img/img1.jpg" />
+      <Card.Img variant="top" src="/img1" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
