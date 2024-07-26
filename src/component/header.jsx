@@ -15,7 +15,7 @@ export function OffCanvasExample({ name, ...props }) {
     <>
             <Navbar className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand style={{fontSize:"35px"}} href="#home">CaridinatheHouse</Navbar.Brand>
+        <Navbar.Brand style={{fontSize:"27px"}} href="#home">CaridinatheHouse</Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Navbar.Text>
