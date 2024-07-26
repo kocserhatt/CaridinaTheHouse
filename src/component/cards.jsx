@@ -16,7 +16,7 @@ function BasicExample() {
       <Card.Body>
         <Card.Title>Tür Çeşitliliği</Card.Title>
         <Card.Text>
-        Karidesler, dünyada yaklaşık 2.000 farklı türü bulunan kabuklu deniz canlılarıdır.
+        Karidesler, dünyada yaklaşık  2.000 farklı türü bulunan kabuklu deniz canlılarıdır.
         </Card.Text>
         <Button variant="primary">Go somewhere</Button>
       </Card.Body>
