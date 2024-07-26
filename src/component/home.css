@@ -57,3 +57,16 @@
     
 }
 /* home end */
+
+@media (width <= 475px) {
+    /* home */
+
+    .home-header{
+        font-size: 26px;
+    }
+
+    .home-paragraph{
+        font-size: 16px;
+    }
+
+    /* home end */}
