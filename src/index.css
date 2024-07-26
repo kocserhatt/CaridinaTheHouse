@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: Sora;
+}
+
+li{list-style-type:none;}
+a{text-decoration: none;}
+
+.container{
+  max-width: 1280px;
+  margin-inline: auto;
+  padding-inline: 16px;
+}
